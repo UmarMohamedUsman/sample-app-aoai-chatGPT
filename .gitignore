@@ -5,3 +5,8 @@ frontend/node_modules
 .azure/
 __pycache__/
 .ipynb_checkpoints/
+static/index.html
+static/assets/FTAimage-a84a9546.jpg
+static/assets/index-828537f9.js
+static/assets/index-828537f9.js.map
+static/index.html
